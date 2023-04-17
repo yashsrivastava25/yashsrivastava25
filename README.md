@@ -70,7 +70,7 @@
 <hr>
 <p align="left">
 <a href="https://github.com/yashsrivastava25">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=j-prajwal&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashsrivastava25&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=j-prajwal&layout=compact&langs_count=8&theme=algolia"/>
   <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=j-prajwal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /></p>
