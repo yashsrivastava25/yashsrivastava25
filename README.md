@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full stack developer from Kanpur, India</h3>
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [https://yashsrivastava25.github.io/](https://shivammchaudhary1.github.io/)
+- 👨‍💻 All of my projects are available at [https://yashsrivastava25.github.io/](https://yashsrivastava25.github.io/)
 
 - 💬 Ask me about **React, Redux, HTML, CSS, JavaScript**
 
