@@ -1,5 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Yash Srivastava</h1>
+<h3 align="center">A passionate full stack developer from Kanpur, India</h3>
+- 🌱 I’m currently learning **Redux**
+
+- 👨‍💻 All of my projects are available at [https://yashsrivastava25.github.io/](https://shivammchaudhary1.github.io/)
+
+- 💬 Ask me about **React, Redux, HTML, CSS, JavaScript**
+
+- 📫 How to reach me **srivastavayash090@gmail.com**
 <h2><p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures+And+Algorithms"></a>
 </p>
