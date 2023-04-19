@@ -25,7 +25,7 @@
         <img src="https://komarev.com/ghpvc/?username=yashsrivastava25&label=Profile%20views&color=0e75b6&style=flat" alt="yashsrivastava" />
     </a>
     <a href="https://github.com/yashsrivastava25?tab=followers">
-        <img src="https://img.shields.io/github/followers/yashsrivastava25l?label=Followers&style=social" alt="followers-count">
+        <img src="https://img.shields.io/github/followers/yashsrivastava25?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
 <br>
